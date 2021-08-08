@@ -1,25 +1,19 @@
 ![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)
-
 ## 👋
 #### Mobile app Development (Java, Swift, Objective-C, React Native，Flutter, ionic)
 #### Admin panel development (Laravel, CI, node.js react.js, vue.js, next.js)
-
 ## luckyguy has <!-- follower-counter -->1272<!-- /follower-counter --> followers
-
 [@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
 --- | --- | --- | ---
 ![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
-
 [@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
 --- | --- | --- | ---
 ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
-
 <p align="center">   
   <a href="mailto:lucky.guy744@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
   <a href="https://join.skype.com/invite/WUvAUIfJZY6G" target="_blank"><img src="https://img.shields.io/badge/Skype-live%3A.cid.b4b2342810eec7e8-brightgreen"></a> 
 </p>
 <br/>
-
 <h2>📃 Github Stats</h2>
 <br/>
 <diV>
@@ -29,20 +23,14 @@
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
-
   <hr/>
-
   <div>
     <a href="#"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luckyguy744&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
-
 <br/>
-
 <h2>⚡ Main Technologies</h2>
-
 <br/>
-
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"></a>
@@ -71,5 +59,4 @@
   <a href="#"><img src="https://img.shields.io/badge/-Arduino-0D1117?style=flat-square&logo=Arduino&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=flat-square&logo=Raspberry-Pi&logoColor=F0DB4F"></a>
 </p>
-
 <br/>
