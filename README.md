@@ -15,16 +15,9 @@
 --- | --- | --- | ---
 ![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
 
-<h1 align="center">
-  Hello, friend!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
-</h1>
-
 <p align="center">   
-  <a href="mailto:dev@thiagosouza.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-  <a href="https://www.linkedin.com/in/thiagosouza-js" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
-  <a href="https://www.instagram.com/thiagosouza.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
-  <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a>
+  <a href="mailto:lucky.guy744@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
+  <a href="https://join.skype.com/invite/WUvAUIfJZY6G" target="_blank"><img src="https://img.shields.io/badge/Skype-live%3A.cid.b4b2342810eec7e8-brightgreen"></a> 
 </p>
 
 
@@ -47,7 +40,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luckyguy744&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luckyguy744&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
