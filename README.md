@@ -1,8 +1,8 @@
 ![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)
 
 ## 👋
-### Mobile app Development (Java, Swift, Objective-C, React Native，Flutter, ionic)
-### Admin panel development (Laravel, CI, node.js react.js, vue.js, next.js)
+#### Mobile app Development (Java, Swift, Objective-C, React Native，Flutter, ionic)
+#### Admin panel development (Laravel, CI, node.js react.js, vue.js, next.js)
 
 ## luckyguy has <!-- follower-counter -->1272<!-- /follower-counter --> followers
 
