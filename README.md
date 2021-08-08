@@ -1,11 +1,10 @@
 ![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)
 
-## Hi there 👋, l'm dahhd
-## iOS Developer (Objective-C, Swift，Flutter)
+## 👋
+## Mobile app Development (Java, Swift, Objective-C, React Native，Flutter, ionic)
+## Admin panel development (Laravel, CI, node.js react.js, vue.js, next.js)
 
-# 🍕 bdougie's Top 8 Page🍕
-
-## bdougie has <!-- follower-counter -->1272<!-- /follower-counter --> followers
+## luckyguy has <!-- follower-counter -->1272<!-- /follower-counter --> followers
 
 [@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
 --- | --- | --- | ---
@@ -19,20 +18,14 @@
   <a href="mailto:lucky.guy744@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
   <a href="https://join.skype.com/invite/WUvAUIfJZY6G" target="_blank"><img src="https://img.shields.io/badge/Skype-live%3A.cid.b4b2342810eec7e8-brightgreen"></a> 
 </p>
-
-
 <br/>
-
 
 <h2>📃 Github Stats</h2>
-
 <br/>
-
 <diV>
-
   <div align="center">
-    <a href="#"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=luckyguy744&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyguy744&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=thiagodesouza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodesouza&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
